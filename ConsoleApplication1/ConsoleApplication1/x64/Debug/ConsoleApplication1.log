@@ -1,0 +1,19 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(51,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(102): warning C4172: возвращение адреса локальной или временной переменной : hero_name
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(110): warning C4172: возвращение адреса локальной или временной переменной : email
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(126): warning C4172: возвращение адреса локальной или временной переменной : new_email
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(118): warning C4172: возвращение адреса локальной или временной переменной : real_name
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(134): warning C4172: возвращение адреса локальной или временной переменной : YouTube_email
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(142): warning C4172: возвращение адреса локальной или временной переменной : TikTok_email
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(150): warning C4172: возвращение адреса локальной или временной переменной : instagram_email
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(158): warning C4172: возвращение адреса локальной или временной переменной : password
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(166): warning C4172: возвращение адреса локальной или временной переменной : phone_number
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(174): warning C4172: возвращение адреса локальной или временной переменной : real_age
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(182): warning C4172: возвращение адреса локальной или временной переменной : date
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(190): warning C4172: возвращение адреса локальной или временной переменной : age_hero
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(198): warning C4172: возвращение адреса локальной или временной переменной : new_password
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(214): warning C4172: возвращение адреса локальной или временной переменной : TikTok_password
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(206): warning C4172: возвращение адреса локальной или временной переменной : YouTube_password
+C:\Users\111\laboratorna2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(222): warning C4172: возвращение адреса локальной или временной переменной : instagram_password
+  ConsoleApplication1.vcxproj -> C:\Users\111\laboratorna2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
