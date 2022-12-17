@@ -1,0 +1,62 @@
+﻿  pw 2.cpp
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(3,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(3,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "studentFullName"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(13,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(13,1): error C2086: int string: переопределение
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(3,1): message : см. объявление "string"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(13,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "originAddress"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(15,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(15,1): error C2086: int string: переопределение
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(3,1): message : см. объявление "string"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(15,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "degree"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(17,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(17,1): error C2086: int string: переопределение
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(3,1): message : см. объявление "string"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(17,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "group"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(19,42): error C2065: studentFullName: необъявленный идентификатор
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(20,8): error C2065: group: необъявленный идентификатор
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(25,8): error C2065: originAddress: необъявленный идентификатор
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(26,8): error C2065: degree: необъявленный идентификатор
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(28,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(28,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(28,7): error C2059: синтаксическая ошибка: <<
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(29,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(29,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(29,1): error C2086: int count: переопределение
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(28,1): message : см. объявление "count"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(29,7): error C2059: синтаксическая ошибка: <<
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(30,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(30,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(30,1): error C2086: int count: переопределение
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(28,1): message : см. объявление "count"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(30,7): error C2059: синтаксическая ошибка: <<
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(31,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(31,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(31,1): error C2086: int count: переопределение
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(28,1): message : см. объявление "count"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(31,7): error C2059: синтаксическая ошибка: <<
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(32,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(32,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(32,1): error C2086: int count: переопределение
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(28,1): message : см. объявление "count"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(32,7): error C2059: синтаксическая ошибка: <<
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(33,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(33,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(33,1): error C2086: int count: переопределение
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(28,1): message : см. объявление "count"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(33,7): error C2059: синтаксическая ошибка: <<
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(34,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(34,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(34,1): error C2086: int count: переопределение
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(28,1): message : см. объявление "count"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(34,7): error C2059: синтаксическая ошибка: <<
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(35,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(35,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(35,1): error C2086: int count: переопределение
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(28,1): message : см. объявление "count"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(35,7): error C2059: синтаксическая ошибка: <<
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(37,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(37,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(37,1): error C2086: int count: переопределение
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(28,1): message : см. объявление "count"
+C:\Users\111\laboratorna2\pw 2\pw 2\pw 2.cpp(37,7): error C2059: синтаксическая ошибка: <<
